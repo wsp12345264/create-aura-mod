@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "C C",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "createaura:aura_crystal"
+    }
+  },
+  "result": {
+    "item": "createaura:aura_pipe",
+    "count": 4
+  }
+}
