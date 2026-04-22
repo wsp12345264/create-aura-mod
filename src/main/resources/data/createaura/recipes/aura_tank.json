@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "GCG",
+    "IGI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "create:glass"
+    },
+    "C": {
+      "item": "createaura:aura_crystal"
+    }
+  },
+  "result": {
+    "item": "createaura:aura_tank",
+    "count": 1
+  }
+}
