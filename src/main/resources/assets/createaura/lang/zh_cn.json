@@ -1,0 +1,30 @@
+{
+  "itemGroup.createaura": "鐏垫皵鏈烘 (Create Aura)",
+
+  "block.createaura.aura_crystal_ore": "鐏垫櫠鐭跨煶",
+  "block.createaura.aura_block": "鐏垫皵鍧?,
+  "block.createaura.aura_generator": "鐏垫皵鍙戠數鏈?,
+  "block.createaura.aura_compressor": "鐏垫皵鍘嬬缉鏈?,
+  "block.createaura.aura_pipe": "鐏垫皵绠￠亾",
+  "block.createaura.aura_tank": "鐏垫皵鍌ㄧ綈",
+  "block.createaura.aura_glow_block": "鐏靛厜鍧?,
+  "block.createaura.aura_crystal_cluster": "鐏垫櫠绨?,
+
+  "item.createaura.raw_aura_crystal": "绮楃伒鏅?,
+  "item.createaura.aura_crystal": "鐏垫櫠",
+  "item.createaura.polished_aura_crystal": "鎶涘厜鐏垫櫠",
+  "item.createaura.aura_core": "鐏垫皵鏍稿績",
+  "item.createaura.aura_ingot": "鐏垫皵閿?,
+  "item.createaura.aura_nugget": "鐏垫皵绮?,
+  "item.createaura.aura_gear": "鐏垫皵榻胯疆",
+  "item.createaura.aura_belt_connector": "鐏垫皵鐨甫杩炴帴鍣?,
+  "item.createaura.aura_detector": "鐏垫皵鎺㈡祴鍣?,
+  "item.createaura.aura_wrench": "鐏垫皵鎵虫墜",
+  "item.createaura.aura_speed_module": "閫熷害妯″潡",
+  "item.createaura.aura_efficiency_module": "鏁堢巼妯″潡",
+  "item.createaura.charged_aura_crystal": "鍏呰兘鐏垫櫠",
+
+  "createaura.subtitle.aura_pulse": "鐏垫皵鑴夊啿",
+  "createaura.subtitle.generator_active": "鍙戠數鏈鸿繍杞?,
+  "createaura.subtitle.compressor_work": "鍘嬬缉鏈哄伐浣?
+}
