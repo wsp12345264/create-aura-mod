@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createaura:aura_ingot"
+    }
+  ],
+  "result": {
+    "item": "createaura:aura_nugget",
+    "count": 9
+  }
+}
