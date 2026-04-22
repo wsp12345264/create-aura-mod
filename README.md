@@ -2,7 +2,7 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen)](https://minecraft.net)
 [![Forge](https://img.shields.io/badge/Forge-47.2.0-orange)](https://files.minecraftforge.net)
-[![Create](https://img.shields.io/badge/Create-0.5.1-blue)](https://github.com/Creators-of-Create/Create)
+[![Create](https://img.shields.io/badge/Create-0.6.0+-blue)](https://github.com/Creators-of-Create/Create)
 
 > 鈿?灏嗙绉樼殑鐏垫皵涔嬪姏娉ㄥ叆鏈烘鍔ㄥ姏鐨勪笘鐣?
 涓€涓?**鏈烘鍔ㄥ姏 (Create Mod)** 鐨勬嫇灞曟ā缁勶紝涓烘満姊扮郴缁熷娣讳簡鍏ㄦ柊鐨?*鐏垫皵鑳介噺缁村害**銆?
@@ -42,13 +42,14 @@
 
 ### 鍓嶇疆妯＄粍
 1. [Minecraft Forge 47.2.0+](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
-2. [Create Mod 0.5.1+](https://github.com/Creators-of-Create/Create)
+2. **Create Mod 0.6.0+**
 3. Flywheel (Create 鑷甫渚濊禆)
 
+> 鈿狅笍 **娉ㄦ剰**: 鏈ā缁勯渶瑕?Create Mod **0.6.0 鎴栨洿楂樼増鏈?*锛屼笉鏀寔 0.5.x 鐗堟湰銆?
 ### 瀹夎姝ラ
 1. 涓嬭浇 `createaura-1.0.0.jar`
 2. 鏀惧叆 `.minecraft/mods/` 鐩綍
-3. 纭繚宸插畨瑁?Forge 鍜?Create
+3. 纭繚宸插畨瑁?Forge 鍜?Create 0.6.0+
 
 ---
 
@@ -60,7 +61,7 @@
 ### 缂栬瘧鍛戒护
 ```bash
 # 鍏嬮殕浠撳簱
-git clone https://github.com/YOUR_USERNAME/create-aura-mod.git
+git clone https://github.com/wsp12345264/create-aura-mod.git
 cd create-aura-mod
 
 # 鏋勫缓
@@ -126,4 +127,4 @@ MIT License - 璇﹁ [LICENSE](LICENSE)
 ## 馃檹 鑷磋阿
 
 - [Create Mod](https://github.com/Creators-of-Create/Create) - 鏈烘鍔ㄥ姏妗嗘灦
-- [Minecraft Forge](https://files.minecraftforge.net/) - 妯＄粍鍔犺浇鍣?- [Registrate](https://github.com/tterrag1098/Registrate) - 娉ㄥ唽宸ュ叿搴?
+- [Minecraft Forge](https://files.minecraftforge.net/) - 妯＄粍鍔犺浇鍣?- [Registrate](https://github.com/tterrag1098/Registrate) - 娉ㄥ唽宸ュ叿搴
