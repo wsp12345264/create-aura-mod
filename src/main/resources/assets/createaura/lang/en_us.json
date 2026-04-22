@@ -1,0 +1,30 @@
+{
+  "itemGroup.createaura": "Create Aura",
+
+  "block.createaura.aura_crystal_ore": "Aura Crystal Ore",
+  "block.createaura.aura_block": "Aura Block",
+  "block.createaura.aura_generator": "Aura Generator",
+  "block.createaura.aura_compressor": "Aura Compressor",
+  "block.createaura.aura_pipe": "Aura Pipe",
+  "block.createaura.aura_tank": "Aura Tank",
+  "block.createaura.aura_glow_block": "Aura Glow Block",
+  "block.createaura.aura_crystal_cluster": "Aura Crystal Cluster",
+
+  "item.createaura.raw_aura_crystal": "Raw Aura Crystal",
+  "item.createaura.aura_crystal": "Aura Crystal",
+  "item.createaura.polished_aura_crystal": "Polished Aura Crystal",
+  "item.createaura.aura_core": "Aura Core",
+  "item.createaura.aura_ingot": "Aura Ingot",
+  "item.createaura.aura_nugget": "Aura Nugget",
+  "item.createaura.aura_gear": "Aura Gear",
+  "item.createaura.aura_belt_connector": "Aura Belt Connector",
+  "item.createaura.aura_detector": "Aura Detector",
+  "item.createaura.aura_wrench": "Aura Wrench",
+  "item.createaura.aura_speed_module": "Aura Speed Module",
+  "item.createaura.aura_efficiency_module": "Aura Efficiency Module",
+  "item.createaura.charged_aura_crystal": "Charged Aura Crystal",
+
+  "createaura.subtitle.aura_pulse": "Aura Pulse",
+  "createaura.subtitle.generator_active": "Generator Active",
+  "createaura.subtitle.compressor_work": "Compressor Working"
+}
