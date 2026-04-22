@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="createaura"
+version="1.0.0"
+displayName="Create Aura - 鐏垫皵鏈烘"
+description='''
+涓€涓満姊板姩鍔?Create)妯＄粍鐨勭伒姘旀嫇灞曪紝涓烘満姊扮郴缁熷娣荤伒姘旇兘閲忕淮搴︺€?鍖呭惈鐏垫皵鐭跨煶銆佺伒姘旂閬撶綉缁溿€佺伒姘斿彂鐢垫満銆佺伒姘斿偍缃愮瓑鏂瑰潡涓庣墿鍝侊紝
+灏嗙绉樼殑鐏垫皵涔嬪姏涓庡伐涓氭満姊板畬缇庣粨鍚堛€?
+A Create mod addon that introduces an aura energy system.
+Features aura ores, pipe networks, generators, tanks and more!
+'''
+authors="CreateAura Team"
+logoFile="logo.png"
+
+[[dependencies.createaura]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.createaura]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.createaura]]
+modId="create"
+mandatory=true
+versionRange="[0.5.1,0.6)"
+ordering="AFTER"
+side="BOTH"
