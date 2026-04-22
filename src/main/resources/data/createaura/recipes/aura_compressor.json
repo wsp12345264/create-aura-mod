@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CGC",
+    "CPC",
+    " I "
+  ],
+  "key": {
+    "C": {
+      "item": "createaura:aura_crystal"
+    },
+    "G": {
+      "item": "createaura:aura_core"
+    },
+    "P": {
+      "item": "create:mechanical_piston"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "createaura:aura_compressor",
+    "count": 1
+  }
+}
