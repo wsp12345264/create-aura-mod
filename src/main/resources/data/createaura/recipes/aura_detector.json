@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "ACI",
+    " R "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "createaura:aura_crystal"
+    },
+    "C": {
+      "item": "createaura:aura_core"
+    },
+    "R": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "result": {
+    "item": "createaura:aura_detector",
+    "count": 1
+  }
+}
