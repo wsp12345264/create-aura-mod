@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "GCG",
+    "IGI"
+  ],
+  "key": {
+    "I": {
+      "item": "createaura:aura_ingot"
+    },
+    "G": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "createaura:aura_core"
+    }
+  },
+  "result": {
+    "item": "createaura:aura_speed_module",
+    "count": 1
+  }
+}
