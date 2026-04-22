@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "SBS",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "create:belt_connector"
+    },
+    "S": {
+      "item": "createaura:aura_speed_module"
+    }
+  },
+  "result": {
+    "item": "createaura:aura_belt_connector",
+    "count": 2
+  }
+}
