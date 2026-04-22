@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GCG",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "createaura:aura_glow_block"
+    },
+    "C": {
+      "item": "createaura:aura_core"
+    }
+  },
+  "result": {
+    "item": "createaura:charged_aura_crystal",
+    "count": 1
+  }
+}
