@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "createaura:raw_aura_crystal"
+  },
+  "result": "createaura:aura_crystal",
+  "experience": 1.0,
+  "cookingtime": 200
+}
