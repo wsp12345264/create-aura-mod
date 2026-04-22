@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CAC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "createaura:polished_aura_crystal"
+    },
+    "A": {
+      "item": "createaura:aura_crystal"
+    }
+  },
+  "result": {
+    "item": "createaura:aura_core",
+    "count": 1
+  }
+}
